@@ -1,2 +1,0 @@
-# demptask
-DevOps For Developer
